@@ -1,6 +1,6 @@
 {
   "Version": "1.0.1",
-  "DownloadUrl": "https://www.hostize.com/zh/s/ut9spC9NKO",
+  "DownloadUrl": "https://s3.dynabic.com/hostize/ut9spC9NKO-BcOJxit524.bin?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Credential=8OOHXD4SU1VP6ZDWSUR0%2F20260117%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20260117T195404Z&X-Amz-Expires=60&X-Amz-Signature=8a376907ec5e3eab0f6d41d27385202eb431da5c9e840756bbae2fe4d6834fc7&X-Amz-SignedHeaders=host&response-content-disposition=attachment%3B%20filename%3D%22GprX-AI.exe%22%3B%20filename%2A%3DUTF-8%27%27GprX-AI.exe&response-content-type=application%2Foctet-stream&x-amz-checksum-mode=ENABLED&x-id=GetObject",
   "Announcement": "欢迎使用 GprX-AI！这是我们的最新版本。",
   "UpdateLog": "1. 优化了检测算法\n2. 修复了 UI 频闪问题\n3. 新增云更新功能",
   "ForceUpdate": false
