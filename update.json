@@ -1,7 +1,7 @@
 {
-  "Version": "1.0.3",
+  "Version": "1.1",
   "DownloadUrl": "",
-  "Announcement": "欢迎使用 GprX-AI！这是我们的最新版本\n2.修复了点击公告界面程序无法点击BUG\n3.持续更新中ing....",
-  "UpdateLog": "1. 优化了检测算法\n2. 修复了 UI 频闪问题\n3. 新增云更新功能",
+  "Announcement": "欢迎使用 GprX-AI！这是我们的最新版本\n2.持续更新中ing....",
+  "UpdateLog": "1. 优化了众多BUG\n2.优化了画框稳定性\n3. 更新了鼠标平滑算法可自行选择\n4.注意:画框无法做到100%稳定谨慎开启",
   "ForceUpdate": false
 }
